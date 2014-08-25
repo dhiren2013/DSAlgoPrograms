@@ -45,7 +45,8 @@ Thumbs.db
 # because they contain machine-dependent info and should not be committed
 ########################################
 *.classpath
-*.setting
+*.settings
+*.project
 
 # mergetool files
 #################
